@@ -1,0 +1,8 @@
+
+<link rel="stylesheet" href="cursacss.css"/>
+
+<nav>
+    <a class="encabezado" href="index.jsp">Inicio </a>
+    <a class="encabezado" href="listaEstudiantes.jsp"> Lista Estudiantes</a>
+    <a id="linkEstudiante" href="capturaEstudiantes.jsp"> Insertar Nuevo Estudiante </a> 
+</nav>

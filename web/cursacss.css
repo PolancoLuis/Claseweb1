@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 29, 2014, 2:46:10 PM
+    Author     : Andres Pineda
+*/
+
+    .encabezado{
+        text-decoration: none;
+        text-align: center;
+        font-size: 25px;
+        padding: 10px;
+        color: #298fef;
+    }
+    
+#linkEstudiante{
+        text-decoration: none;
+        text-align: center;
+        font-size: 25px;
+        padding: 10px;
+        color: #fc9fdd;
+    }    
